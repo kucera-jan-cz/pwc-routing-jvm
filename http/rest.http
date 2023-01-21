@@ -1,0 +1,7 @@
+### GET application version
+GET {{app}}/routing/version
+Accept: application/json
+
+### GET ROUTING
+GET {{app}}/routing/CZE/ITA
+Accept: application/json

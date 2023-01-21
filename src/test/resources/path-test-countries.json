@@ -1,0 +1,20 @@
+[
+  {
+    "cca3": "ABW",
+    "borders": []
+  },
+  {
+    "name": {
+      "common": "Aruba"
+    },
+    "cca3": "AFG",
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ]
+  }
+]
